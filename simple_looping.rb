@@ -9,6 +9,7 @@ def loop_iterator(number_of_times)
       puts phrase
       x+=1
     end
+  end
 end
 
 def times_iterator(number_of_times)
